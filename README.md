@@ -35,7 +35,7 @@ JWT_SECRET=your_jwt_secret
 ```
 
 ##Running the App
-```
+```bash
 npm start
 ```
 
