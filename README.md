@@ -32,9 +32,12 @@ npm install
 PORT=5000
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
+```
 
 ##Running the App
+```
 npm start
+```
 
 ##🧪 API Testing
 
