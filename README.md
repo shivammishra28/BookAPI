@@ -41,12 +41,12 @@ npm start
 
 ## 🧪 API Testing
 
-## 🔑 Authentication Endpoints
+### 🔑 Authentication Endpoints
 POST /signup – Register new user
 
 POST /login – Authenticate and get token
 
-## 📚 Book Routes
+### 📚 Book Routes
 POST /books – Add new book (Authenticated)
 
 GET /books – List all books (pagination & filters)
@@ -55,7 +55,7 @@ GET /books/:id – Get book by ID (with average rating, reviews)
 
 GET /search?query=title_or_author
 
-## ✍️ Review Routes
+### ✍️ Review Routes
 POST /books/:id/reviews – Add review (one per user)
 
 PUT /reviews/:id – Update own review
