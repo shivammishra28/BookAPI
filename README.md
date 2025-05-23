@@ -26,13 +26,14 @@ A RESTful API built with Node.js and Express.js for managing books, reviews, and
 git clone https://github.com/your-username/book-review-api.git
 cd book-review-api
 npm install
+```
 
 ## Create a .env file in the root:
  
 PORT=5000
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-```
+
 
 ## Running the App
 ```bash
